@@ -6,7 +6,7 @@
   
 ## ABOUT
   
-H-INFECT is a officially made for HACKING users of termux from this tool in just one click you can CREATE VIRUS. This tool works on rooted Android device, Non-rooted Android device FOR ANDROID DEVICES 27 TYPES OF VIRUS, FOR WINDOWS 11 TYPES OF VIRUS AND MACOS 2 TYPES of virus
+H-INFECT is a officially made for HACKING users of TERMUX from this tool in just one click you can CREATE VIRUS. This tool works on rooted Android device, Non-rooted Android device FOR ANDROID DEVICES 27 TYPES OF VIRUS, FOR WINDOWS 11 TYPES OF VIRUS AND MACOS 2 TYPES of virus
 
 ## SCREENSHOT  
 
